@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>res/logo_small_right.png</file>
+        <file>res/loader.gif</file>
+        <file>res/iconbyframeselected.png</file>
+        <file>res/iconbyframe.png</file>
+        <file>res/icon025xselected.png</file>
+        <file>res/icon025x.png</file>
+        <file>res/icon05xselected.png</file>
+        <file>res/icon05x.png</file>
+        <file>res/fullscreen.png</file>
+        <file>res/icon_tab_general.png</file>
+        <file>res/icon_tab_playback.png</file>
+        <file>res/icon_tab_videowall.png</file>
+        <file>res/icon_tab_close.png</file>
+        <file>res/icon_tab_maximize.png</file>
+        <file>res/icon_tab_minimize.png</file>
+        <file>res/icon_tab_exit.png</file>
+        <file>res/icon_tab_logout.png</file>
+        <file>res/marker.png</file>
+        <file>res/socketloading.gif</file>
+        <file>res/icon_about.png</file>
+        <file>res/logo_vcam.png</file>
+    </qresource>
+</RCC>
