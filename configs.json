@@ -1,0 +1,26 @@
+[
+  {
+    "config": {
+      "socket_url": "https://core.vcam.viettel.vn",
+      "base_api_url": "https://core.vcam.viettel.vn/api",
+      "base_record_api_url": "https://2vg1.cdn.vincam.net",
+      "base_vod_api_url": "http://4co2.vp9.tv",
+      "cam_site_by_device_api_uri": "/cms_api/getAllCamOfSiteV2",
+      "cam_site_by_site_api_uri": "/cms_api/getCamera",
+      "login_api_uri": "/login",
+      "ping_host": "http://www.google.com",
+      "record_api_uri": "/api.php",
+      "token_api_uri": "/getToken",
+      "change_password_uri": "/cms_api/updateUserPassword",
+      "brand_name" : "VCAM",	
+      "api_vod_version" : "3.0",
+      "tv_live_network" :"CDN",
+      "tv_live_protocol":"HTTP",
+      "rtc_live_network" :"CDN",
+      "rtc_live_protocol":"WS"
+    },
+    "created": 1497436391,
+    "modified": 1497436391,
+    "name": "VCAM"
+  }
+]
